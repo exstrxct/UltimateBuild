@@ -13,7 +13,7 @@ These files may be used to create forks from UB & Community Driven Projects
 
 ## UB is not a source to learn from!
 Ultimate Build is a heavy mess. Coding may date back to 2018 and scripts may use 
-older methods. It's not adviced to use this as a way to learn coding.
+older methods. It's not advised to use this as a way to learn coding.
 
 --
 
